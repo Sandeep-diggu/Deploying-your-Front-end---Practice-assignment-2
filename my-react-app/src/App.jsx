@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Sandeep kumar</h1>
-      <h3>phone no : 1234567890</h3>
+      <h3>phone no : 123 4567890</h3>
     </>
   )
 }
